@@ -1,0 +1,19 @@
+# 🚀 Python Virtual Environments
+venv/
+manuav_mock_project_env/
+
+# 🚀 Temporary Files
+__pycache__/
+*.log
+*.tmp
+*.swp
+*.bak
+
+# 🚀 Ignore Reports & Output Files
+reports/
+*.xlsx
+*.csv
+
+# 🚀 Hide Credentials
+.env
+email_config.json
